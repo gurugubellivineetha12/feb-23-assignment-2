@@ -4,4 +4,4 @@ print('Reversed List:', List)
 
 Output:
 Reversed List: [7, 5, 3, 2]
->
+
